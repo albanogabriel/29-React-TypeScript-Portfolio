@@ -1,4 +1,4 @@
-import { Card, ButtonLink } from './style'
+import { Card, ButtonLink } from './styles'
 
 import Paragrafo from '../Paragrafo'
 import Titulo from '../Titulo'
