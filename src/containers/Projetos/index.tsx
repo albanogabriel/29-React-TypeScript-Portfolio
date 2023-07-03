@@ -11,6 +11,20 @@ const Projetos = () => (
     <Lista>
       <li>
         <Card>
+          <Titulo>Portfólio Dev Web</Titulo>
+          <Paragrafo>
+            React, create-react-app, esLint, editorConfig, Prettier
+          </Paragrafo>
+          <ButtonLink
+            target="_blank"
+            href="https://29-react-type-script-portfolio.vercel.app/"
+          >
+            Visualizar
+          </ButtonLink>
+        </Card>
+      </li>
+      <li>
+        <Card>
           <Titulo>Landing Page Full Stack Design EBAC</Titulo>
           <Paragrafo>HTML, CSS, JavaScript, SASS</Paragrafo>
           <ButtonLink
