@@ -6,6 +6,12 @@ const GitHubStats = styled.div`
 
   img {
     height: 157px;
+    padding-right: 24px;
+
+    @media (max-width: 768px) {
+      height: auto;
+      width: 100%;
+    }
   }
 `
 

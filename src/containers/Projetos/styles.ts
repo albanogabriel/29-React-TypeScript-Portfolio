@@ -6,6 +6,10 @@ export const Lista = styled.ul`
   column-gap: 36px;
   row-gap: 40px;
 
+  li {
+    border: 1px solid ${(props) => props.theme.corDaBorda};
+  }
+
   @media (max-width: 768px) {
     grid-template-columns: 1fr;
     column-gap: 0;

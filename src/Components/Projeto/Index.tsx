@@ -5,9 +5,9 @@ import Titulo from '../Titulo'
 
 const Projeto = () => (
   <Card>
-    <Titulo>Projeto lista de tarefas</Titulo>
+    <Titulo>Projeto React</Titulo>
     <Paragrafo tipo="secundario">Lista de tarefas feita com React JS</Paragrafo>
-    <ButtonLink>Visualizar</ButtonLink>
+    <ButtonLink></ButtonLink>
   </Card>
 )
 
